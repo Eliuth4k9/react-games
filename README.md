@@ -25,10 +25,6 @@ Node.js
 
 Morgan Page: [GitLab](https://gitlab.com/morganpage)
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Heroku Link
 
 https://warm-journey-61693.herokuapp.com/
