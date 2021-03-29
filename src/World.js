@@ -7,7 +7,7 @@ class World {
         this.height= height;
         this.tilesize = tilesize;
         this.entities = [new Player(0, 0, 16)]; // array for player creatures etc..
-        this.history = ['Good luck young one', '---']
+        this.history = ['Good luck young one. Use the arrow keys to move...', '---']
         this.worldmap = new Array(this.width);
         //two dimensional array to build the world
         for (let x = 0; x < this.width; x++) {
